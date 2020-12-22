@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace LdsPe\enchantmentglow;
+namespace LdsPE\enchantmentglow;
 
 use pocketmine\item\enchantment\Enchantment;
 use pocketmine\item\enchantment\EnchantmentInstance;
