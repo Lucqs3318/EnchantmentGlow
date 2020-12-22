@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LdsPE/EnchantmentGlow
+branches:
+- master
+projects:
+  EnchantmentGlow:
+    path: ""
+    model: virion
+    type: library
+...
