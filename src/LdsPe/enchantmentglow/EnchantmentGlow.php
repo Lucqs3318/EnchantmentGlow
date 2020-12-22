@@ -7,7 +7,6 @@ namespace LdsPE\enchantmentglow;
 use pocketmine\item\enchantment\Enchantment;
 use pocketmine\item\enchantment\EnchantmentInstance;
 use pocketmine\item\Item;
-use pocketmine\item\ItemFactory;
 
 class EnchantmentGlow{
 
